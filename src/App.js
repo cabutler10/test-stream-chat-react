@@ -15,7 +15,7 @@ import {
 } from "stream-chat-react";
 import "stream-chat-react/dist/css/index.css";
 
-const apiKey = "z6cfpdzya8qb";
+const apiKey = "YOUR_API_KEY";
 const userId = "fancy-feather-7";
 const userToken =
   "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiZmFuY3ktZmVhdGhlci03In0.GbmsXHJJQu19xEo5CzFL-euKvzFEGow4RrtqGo9vqMs";
